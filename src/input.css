@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.box{
+    background-image: url('img/140f40ab3a3a105d187df879c0509c82.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
